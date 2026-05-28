@@ -18,7 +18,7 @@ Para o funcionamento correto, coloque os seguintes arquivos dentro da **mesma pa
 ## 🛠️ Como Usar
 
 1. Certifique-se de que o nome da sua VM no VirtualBox e o IP correspondente estão configurados corretamente no topo do arquivo `vbox-vm-watchdog.ps1`.
-2. Para iniciar o monitoramento, dê **dois cliques no arquivo `start.vbs`**.
+2. Para iniciar o monitoramento, dê **dois cliques no arquivo `Start.vbs`**.
 3. Nenhuma janela vai se abrir, mas o script já estará trabalhando nas sombras.
 4. Abra o arquivo `dashboard.html` no seu navegador padrão para acompanhar o status e a última checagem!
 
